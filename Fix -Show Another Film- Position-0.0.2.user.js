@@ -1,13 +1,15 @@
 // ==UserScript==
 // @name         Fix "Show Another Film" Position
 // @namespace    http://tampermonkey.net/
-// @version      16.11.2024
+// @version      0.0.2
 // @description  Positions the "Show Another Film" link on Criticker.com statically above the cover image of the Top Recommendation.
 // @author       Alsweider
 // @match        https://www.criticker.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=criticker.com
+// @icon         https://www.criticker.com/favicon.ico
 // @grant        none
 // @license MIT
+// @downloadURL https://update.greasyfork.org/scripts/517626/Fix%20%22Show%20Another%20Film%22%20Position.user.js
+// @updateURL https://update.greasyfork.org/scripts/517626/Fix%20%22Show%20Another%20Film%22%20Position.meta.js
 // ==/UserScript==
 
 (function () {
