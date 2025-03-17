@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Fix "Show Another Film" Position
 // @namespace    http://tampermonkey.net/
-// @version      0.0.3
+// @version      0.0.4
 // @description  Positions the "Show Another Recommendation" link on Criticker.com statically below the Top Recommendation headline.
 // @author       Alsweider
-// @match        https://www.criticker.com/*
+// @match        https://www.criticker.com/
+// @match        https://games.criticker.com/
 // @icon         https://www.criticker.com/favicon.ico
 // @grant        none
 // @license MIT
